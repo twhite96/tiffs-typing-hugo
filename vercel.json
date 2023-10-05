@@ -1,15 +1,4 @@
 {
-  "headers": [
-    {
-      "source": "css/main.css",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "s-maxage=1, stale-while-revalidate=59"
-        }
-      ]
-    }
-  ],
   "build": {
     "env": {
       "HUGO_VERSION": "0.88.1"
