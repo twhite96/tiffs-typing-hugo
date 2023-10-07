@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/white-lightning/2023-10-07-collecting-the-right-parts/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/</loc>
     <lastmod>2023-10-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -50,6 +53,9 @@
     <loc>/posts/hrh-prince-charles-and-sir-jony-ive-on-designing-for-a-better/</loc>
     <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/movies/i-tonya-review/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/posts/adventures-in-pc-building/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -66,8 +72,6 @@
     <loc>/about/</loc>
   </url><url>
     <loc>/categories/</loc>
-  </url><url>
-    <loc>/movies/i-tonya-review/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url><url>
