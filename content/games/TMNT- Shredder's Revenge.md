@@ -5,4 +5,4 @@ date: "January 14, 2022"
 ---
 
 
-![](tmnt.webp)
+![](/images/tmnt.webp)

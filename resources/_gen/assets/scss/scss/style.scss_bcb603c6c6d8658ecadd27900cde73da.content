@@ -190,14 +190,6 @@ ul {
         margin-left: 20px; } }
   .content a {
     text-decoration: underline; }
-  .content blockquote {
-    border-left: 5px solid var(--highlight-color);
-    margin: 30px 0;
-    padding: 20px; }
-  .content blockquote p {
-    font-size: 20px;
-    display: inline;
-    color: var(--color-base-text); }
   .content img {
     margin: 40px 0 40px 0;
     max-width: 100%;
@@ -228,10 +220,187 @@ ul {
 .dot {
   color: var(--dot-color); }
 
-.footnotes ol {
-  list-style: decimal; }
-  .footnotes ol li {
-    list-style: decimal; }
+.footnote-backdrop {
+  cursor: pointer; }
+
+.footnote-button {
+  background: var(--text1);
+  border: 0;
+  border-radius: 0.475em;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1rem;
+  height: 0.95em;
+  line-height: 0;
+  margin: 0 0.1em 0 0.2em;
+  padding: 0.35em;
+  position: relative;
+  top: -0.2em;
+  -webkit-transition-duration: 0.25s;
+  transition-duration: 0.25s;
+  -webkit-transition-property: background;
+  transition-property: background;
+  vertical-align: super;
+  width: 1.5em;
+  z-index: 1; }
+
+.footnote-button:after {
+  color: var(--surface1);
+  content: attr(data-fn-number);
+  display: block;
+  font-size: 0.57em;
+  font-weight: 700;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -webkit-transition: color 0.25s ease;
+  transition: color 0.25s ease; }
+
+.footnote-button:hover {
+  background: var(--accent1);
+  outline: 0; }
+
+.footnote-button:hover:after {
+  color: var(--surface1); }
+
+.footnote-button.is-active {
+  background: var(--text1);
+  -webkit-transition-delay: 0.1s;
+  transition-delay: 0.1s; }
+
+.footnote-button.is-active:after {
+  color: var(--surface1); }
+
+.bf-footnote {
+  background: var(--text1);
+  color: var(--surface1);
+  border: 1px solid var(--accent1);
+  border-radius: 0.25em;
+  left: 0;
+  margin: 1.618em 0;
+  max-width: 90vw;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  -webkit-transform-origin: 50% 0;
+  transform-origin: 50% 0;
+  -webkit-transition-duration: 0.25s;
+  transition-duration: 0.25s;
+  -webkit-transition-property: opacity;
+  transition-property: opacity;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+  z-index: 3; }
+
+.bf-footnote a {
+  color: var(--footnote-link); }
+
+.bf-footnote.footnote-is-active {
+  opacity: 0.97; }
+
+.bf-footnote.footnote-is-top {
+  bottom: 0;
+  top: auto; }
+
+.footnote-wrapper {
+  background: inherit;
+  border-radius: 0.25em;
+  margin: 0;
+  max-width: 100%;
+  overflow: hidden;
+  position: relative;
+  width: 22em;
+  z-index: 5; }
+
+.footnote-tooltip {
+  background: inherit;
+  border: 1px solid #d8d8d8;
+  height: 1.3em;
+  position: absolute;
+  top: -0.49em;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  width: 1.3em;
+  z-index: 4; }
+
+.footnote-is-top .footnote-tooltip {
+  bottom: -0.49em;
+  top: auto; }
+
+.footnote-content {
+  -webkit-font-smoothing: subpixel-antialiased;
+  line-height: 1.418em;
+  max-height: 15em;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 1em;
+  position: relative;
+  z-index: 2; }
+
+.footnote-content :first-child {
+  margin-top: 0;
+  padding-top: 0; }
+
+.footnote-content :last-child {
+  margin-bottom: 0;
+  padding-bottom: 0; }
+
+h1::selection {
+  background: #06d7d9; }
+
+h2::selection {
+  background: #ed54e1; }
+
+h3::selection {
+  background: #72f1b8;
+  color: white; }
+
+h4::selection {
+  background: #ff0067;
+  color: white; }
+
+p::selection {
+  background: #fe5186;
+  color: white; }
+
+code::selection {
+  background: #ed54e1; }
+
+ul::selection {
+  background: #ff1a75;
+  color: white; }
+
+ol::selection {
+  background: #72f1b8;
+  color: white; }
+
+li::selection {
+  background: #ff1a75;
+  color: white; }
+
+blockquote::selection {
+  background: #06d7d9;
+  color: white; }
+
+.content img {
+  box-shadow: -1px 17px 55px -29px rgba(161, 161, 167, 0.64) !important;
+  border-radius: 15px !important; }
+
+blockquote {
+  border: 1px solid #ff0067;
+  box-sizing: border-box;
+  font-size: 1rem;
+  padding: 16px;
+  text-align: center;
+  width: 100%;
+  color: #2e2e2e;
+  background: linear-gradient(145deg, #f9ffff, #fdfdfd);
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 3px 3px, rgba(255, 0, 103, 0.3) 6px 6px, rgba(255, 0, 103, 0.2) 9px 9px;
+  /* box-shadow: -1px 17px 55px -29px rgba(161, 161, 167, 0.64); */ }
 
 .intro {
   margin-bottom: 60px; }
