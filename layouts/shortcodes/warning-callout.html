@@ -1,0 +1,28 @@
+<style>
+  #warning-callout {
+    background: rgba(255, 106, 0, .3);
+    box-shadow: 0px 10px 34px -11px rgba(0,0,0,0.1);
+    padding: 1.5em 1.25em;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+  }
+  #warning-callout-inner {
+    margin-left: 1em;
+  }
+  @media (max-width: 767px) {
+    #warning-callout {
+    padding: 1.5em 0.75em 1.5em 0.6em;
+    }
+    #warning-callout-inner {
+      margin-left: 0.5em;
+    }
+  }
+</style>
+<div id="warning-callout" style="">
+  <div>{{ .Get "emoji" }}</div>
+	<div id="warning-callout-inner">
+    {{ .Get "text" }}
+  </div>
+</div>

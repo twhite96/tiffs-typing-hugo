@@ -1,0 +1,28 @@
+<style>
+  #note-callout {
+    background: rgba(152, 27, 255, .1);
+    box-shadow: 0px 10px 34px -11px rgba(0,0,0,0.1);
+    padding: 1.5em 1.25em;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+  }
+  #note-callout-inner {
+    margin-left: 1em;
+  }
+  @media (max-width: 767px) {
+    #note-callout {
+    padding: 1.5em 0.75em 1.5em 0.6em;
+    }
+    #note-callout-inner {
+      margin-left: 0.5em;
+    }
+  }
+</style>
+<div id="note-callout" style="">
+  <div>{{ .Get "emoji" }}</div>
+	<div id="note-callout-inner">
+    {{ .Get "text" }}
+  </div>
+</div>
