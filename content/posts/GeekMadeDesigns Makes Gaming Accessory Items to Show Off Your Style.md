@@ -12,12 +12,14 @@ I love SpawnPoiint's YouTube channel for gaming, TV, and gaming accessory review
 
 He introduced me to GeekMadeDesigns and once I saw that *it was a wrap*.
 
-IMG_3706.jpg
+![](/images/IMG_3706.jpg)
 
-IMG_3700.jpg
+![](/images/IMG_3700.jpg)
 
-IMG_3713.jpg
+![](/images/IMG_3713.jpg)
 
-https://www.youtube.com/watch?v=IasskBe_tQI
 
-#game reviews#
+<iframe width="100%" height="600" src="https://www.youtube-nocookie.com/embed/IasskBe_tQI?si=D02JzmMg7N2dg6UT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<!-- {{< video src="https://www.youtube.com/watch?v=IasskBe_tQI" >}} -->
