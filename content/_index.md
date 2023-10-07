@@ -1,5 +1,5 @@
 ---
-title: hey there. nice of you to visit.
+title: hey there. nice of you to visit
 description: this is the place i talk about whatever i want
 ---
 
