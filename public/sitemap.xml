@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/movies/real-genius/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/taxi-driver-review/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/consoles/</loc>
     <lastmod>2023-10-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,11 +20,11 @@
     <loc>/movies/</loc>
     <lastmod>2023-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/white-lightning/</loc>
     <lastmod>2023-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/no-one-is-paying-for-search/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/in-my-feelings/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
@@ -28,6 +37,9 @@
   </url><url>
     <loc>/posts/cold-kill-review/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/tough-times-require-awesome-music/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/macsparky-labs/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
@@ -48,32 +60,6 @@
   </url><url>
     <loc>/now/</loc>
     <priority>0</priority>
-  </url><url>
-    <loc>/posts/drafts/executive-dysfunction-and-time-management/</loc>
-  </url><url>
-    <loc>/posts/drafts/i-am-constantly-fretting-over-how-much-i-should-be-posting-to/</loc>
-  </url><url>
-    <loc>/posts/drafts/my-cousin-my-cousin-and-me/</loc>
-  </url><url>
-    <loc>/posts/drafts/next-gen-consoles-a-year-later/</loc>
-  </url><url>
-    <loc>/posts/drafts/reading-workflow/</loc>
-  </url><url>
-    <loc>/posts/my-home-interior-design-project/</loc>
-  </url><url>
-    <loc>/posts/no-one-is-paying-for-search/</loc>
-  </url><url>
-    <loc>/posts/real-genius/</loc>
-  </url><url>
-    <loc>/posts/scuf/</loc>
-  </url><url>
-    <loc>/posts/taxi-driver-review/</loc>
-  </url><url>
-    <loc>/posts/tough-times-require-awesome-music/</loc>
-  </url><url>
-    <loc>/posts/wrapping-my-brain-around-returnal/</loc>
-  </url><url>
-    <loc>/posts/ye-olde-towne-high/</loc>
   </url><url>
     <loc>/white-lightning/white-lightning/</loc>
   </url><url>

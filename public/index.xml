@@ -1,12 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>welcome to my personal site on ...tiff is typing</title>
+    <title>hey there. nice of you to visit. on ...tiff is typing</title>
     <link>/</link>
-    <description>Recent content in welcome to my personal site on ...tiff is typing</description>
+    <description>Recent content in hey there. nice of you to visit. on ...tiff is typing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real Genius</title>
+      <link>/movies/real-genius/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/movies/real-genius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxi Driver Review</title>
+      <link>/posts/taxi-driver-review/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/taxi-driver-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No One is Paying for Search</title>
+      <link>/posts/no-one-is-paying-for-search/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/no-one-is-paying-for-search/</guid>
+      <description>From kagi.com:
+ Kagi has no ads and is fully supported only by its users. We worked very hard to provide high quality, fast and tracking-free results at a minimum cost to ensure sustainability of our operation.
+  By choosing a paid Kagi plan you are helping accelerate our mission of humanizing the web. Kagi also pledges 5% of its profits to supporting non-profit organizations for a more humane internet.</description>
+    </item>
+    
     <item>
       <title>In My Feelings</title>
       <link>/posts/in-my-feelings/</link>
@@ -48,6 +77,17 @@ Namecallin&#39; Queen Latifa, for me, as a kid watching BET in the late 80s was 
       <description>Jack Olsen is a master at weaving compelling tales about the crimes of some of the most sinister, violent, and stupid people on earth.
 This book was no different.
 cold-kill-review.png</description>
+    </item>
+    
+    <item>
+      <title>Tough Times Require Awesome Music</title>
+      <link>/posts/tough-times-require-awesome-music/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tough-times-require-awesome-music/</guid>
+      <description>So it&amp;rsquo;s a Foo Fighters type of night.
+♥️ Dave Grohl.
+https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY?si=VwEbSlPJRH66x1vTJFO7cw</description>
     </item>
     
     <item>
@@ -112,149 +152,6 @@ Components These are all the components I&amp;rsquo;ve purchased so far:
       
       <guid>/now/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/drafts/executive-dysfunction-and-time-management/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/drafts/executive-dysfunction-and-time-management/</guid>
-      <description>Executive Dysfunction and Time Management What is &amp;ldquo;executive dysfunction&amp;rdquo;? For me it is a play on the term &amp;ldquo;executive function disorder&amp;rdquo; which is a new, trendy, word1 for people who suffer from lack of motivation, poor impulse control, emotional distress, and other symptoms of not having your shit together. It is not an official diagnosis, but lately I&amp;rsquo;ve been thinking about EFD and how I suffer from, and have all my life, suffered from, EFD2.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/drafts/i-am-constantly-fretting-over-how-much-i-should-be-posting-to/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/drafts/i-am-constantly-fretting-over-how-much-i-should-be-posting-to/</guid>
-      <description>I am constantly fretting over how much I should be posting to all of the blogs I write for.
-I have three main ones that I feel I could make a brand from1 and because I feel I need them to be a brand I feel stuck. I get overwhelmed, I don&amp;rsquo;t write, and I binge YouTube.
-I read a lot of folks&#39; thoughts on how they&amp;rsquo;ve relieved the pressure of marketing themselves by not giving a shit.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/drafts/my-cousin-my-cousin-and-me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/drafts/my-cousin-my-cousin-and-me/</guid>
-      <description>My Cousin, My Cousin, and Me [CARD CONTENT] The little nerd boy who taught me to embrace games, love tech, and let my geek flag fly. [/CARD CONTENT]</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/drafts/next-gen-consoles-a-year-later/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/drafts/next-gen-consoles-a-year-later/</guid>
-      <description>Next Gen Consoles, A Year Later </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/drafts/reading-workflow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/drafts/reading-workflow/</guid>
-      <description>Reading Workflow </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/my-home-interior-design-project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/my-home-interior-design-project/</guid>
-      <description>MacSparky, one of my favorite Mac people, has gone about creating his own office space and designing it using Home Design 3D.
-I&amp;rsquo;ve chosen SketchUp for my 3D modeling software and it&amp;rsquo;s great in a lot of ways but converting raster images to .skp files is next to impossible to do within SketchUp itself.
-The best part, however, is that there is a marketplace for models from different well-known brands you can download for free.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/no-one-is-paying-for-search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/no-one-is-paying-for-search/</guid>
-      <description>No One is Paying for Search There&amp;rsquo;s a new search engine in town that requires you to pay for it.
-From kagi.com:
- Kagi has no ads and is fully supported only by its users. We worked very hard to provide high quality, fast and tracking-free results at a minimum cost to ensure sustainability of our operation.
-  By choosing a paid Kagi plan you are helping accelerate our mission of humanizing the web.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/real-genius/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/real-genius/</guid>
-      <description>Real Genius One of my favorite teen movies of all time.
-real-genius.png
-movie review </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/scuf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/scuf/</guid>
-      <description>Scuf Instinct Pro Review IMG_8510.JPG</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/taxi-driver-review/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/taxi-driver-review/</guid>
-      <description>Taxi Driver Review DeNiro, a young Jodie Foster, and Martin Scorsese directing all that young talent. What more could you want?
-qr-taxi-driver.png</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/tough-times-require-awesome-music/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/tough-times-require-awesome-music/</guid>
-      <description>Tough Times Require Awesome Music So it&amp;rsquo;s a Foo Fighters type of night.
-♥️ Dave Grohl.
-https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY?si=VwEbSlPJRH66x1vTJFO7cw</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/wrapping-my-brain-around-returnal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/wrapping-my-brain-around-returnal/</guid>
-      <description>Returnal impressions My impression of Returnal so far:
-Beautiful.
-games/IMG_2315.JPG
-Detailed.
-IMG_2320.JPG
-Interesting story.
-games/IMG_2314.JPG
-Wonky gameplay.
-IMG_2322.JPG
-Unreal graphics.
-games/IMG_2313.JPG
-Smooth, fluid controls, perhaps too fluid.
-IMG_2316.JPG
-More to come.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/ye-olde-towne-high/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/ye-olde-towne-high/</guid>
-      <description>Ye Olde Towne High I&amp;rsquo;m pretty tired and sad and old so I made a hip hop playlist from my high school years for all of us old hip hop heads.
- </description>
     </item>
     
     <item>

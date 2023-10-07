@@ -1,4 +1,8 @@
-# Tough Times Require Awesome Music
+---
+title: "Tough Times Require Awesome Music"
+description: "Hurts so bad it's... actually terrible"
+date: 2022-09-12
+---
 
 So it's a Foo Fighters type of night.
 

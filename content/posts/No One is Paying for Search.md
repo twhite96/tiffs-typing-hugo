@@ -1,7 +1,8 @@
-# No One is Paying for Search
-
-There's a new search engine in town that requires you to pay for it.
-
+---
+title: "No One is Paying for Search"
+description: "There's a new search engine in town that requires you to pay for it."
+date: 2023-05-23
+---
 From kagi.com:
 
 > Kagi has no ads and is fully supported only by its users. We worked very hard to provide high quality, fast and tracking-free results at a minimum cost to ensure sustainability of our operation.
