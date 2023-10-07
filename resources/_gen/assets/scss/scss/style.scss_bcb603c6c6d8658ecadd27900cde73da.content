@@ -394,9 +394,9 @@ ul.pagination {
     align-items: center;
     justify-content: flex-start; }
     .menu-main > ul > li {
-      margin-right: 15px; }
+      margin-right: 10px; }
       .menu-main > ul > li > a {
-        display: block;
+        display: inline-block;
         text-decoration: none; }
         .menu-main > ul > li > a:hover {
           text-decoration: underline; }

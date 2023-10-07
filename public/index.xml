@@ -1,60 +1,310 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>You don&#39;t start out writing good stuff on Hugo Winston Theme</title>
+    <title>welcome to my personal site on ...tiff is typing</title>
     <link>/</link>
-    <description>Recent content in You don&#39;t start out writing good stuff on Hugo Winston Theme</description>
+    <description>Recent content in welcome to my personal site on ...tiff is typing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The revolution will be complete when the language is perfect</title>
-      <link>/posts/language-perfect/</link>
-      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Going from Reeder to NetNewsWire</title>
+      <link>/posts/going-from-netnewswire-to-reeder/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/language-perfect/</guid>
-      <description>He moved over to the window Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly.
-Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig iron.</description>
+      <guid>/posts/going-from-netnewswire-to-reeder/</guid>
+      <description>I&amp;rsquo;ve hopped between different RSS reeders ever since I started using RSS back in 2007.
+I was on Windows then and using FeedDemon1.
+Eventually I discovered Google Reader and hooked it up with FeedDemon for syncing across to my Samsung Galaxy, the first smartphone I owned back in 2010.
+There were so many different types of RSS readers, my favorite being gReader for Android. It was customizable and easy on the eyes.</description>
     </item>
     
     <item>
-      <title>Sanity is not statistical</title>
-      <link>/posts/sanity-not-statistical/</link>
-      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/sanity-not-statistical/</guid>
-      <description>There was no way of knowing whose version would finally be adopted Once again he glanced at his rival in the opposite cubicle. Something seemed to tell him with certainty that Tillotson was busy on the same job as himself. There was no way of knowing whose version would finally be adopted, but he felt a profound conviction that it would be his own
-Mare torrentur Mare torrentur tenuerunt Iovemque crudelis erat non manuque nullaque Pyreneus, evocet pectus, nube.</description>
-    </item>
-    
-    <item>
-      <title>It&#39;s a beautiful thing, the destruction of words</title>
-      <link>/posts/destruction-of-words/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/destruction-of-words/</guid>
-      <description>He moved over to the window Lorem markdownum comes; pro est modo famulus, quo quod neu manibus aether his nomine, Aurora, voce. Ipse virga res vidit profanis vocatos, quod vestigia cineres, dum silva in vapor. Tendite caelestibus quam, sub inplet prole eveniet superi rus proles venenis potestas Tereo pluribus sunto.
-Perque cessisse, hoc tum auras sinuosa. Pressant nec vinci primoque quoque funibus est: et tempore vetitorum? Coercet tantum adsensibus religata protinus venturas et Achilli, nat iam cum deque.</description>
-    </item>
-    
-    <item>
-      <title>Who controls the past controls the future. Who controls the present controls the past</title>
-      <link>/posts/controls-the-past/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/controls-the-past/</guid>
-      <description>He moved over to the window Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly.
-Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig iron.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/pages/about/</link>
+      <title></title>
+      <link>/consoles/console-collection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/pages/about/</guid>
-      <description>Contra vagos Lorem markdownum notam si lintea meque certa en meumque illis, diu fatigant, nec praedae concustodita arcet. Paviunt castris cur errat ventis causa! Silvas sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
- Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.</description>
+      <guid>/consoles/console-collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/games/tmnt-shredders-revenge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/games/tmnt-shredders-revenge/</guid>
+      <description>TMNT: Shredder&amp;rsquo;s Revenge I&amp;rsquo;m too old for this shit.
+tmnt.png</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/now/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/cold-kill-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/cold-kill-review/</guid>
+      <description>Cold Kill Review Jack Olsen is a master at weaving compelling tales about the crimes of some of the most sinister, violent, and stupid people on earth.
+This book was no different.
+cold-kill-review.png</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/executive-dysfunction-and-time-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/executive-dysfunction-and-time-management/</guid>
+      <description>Executive Dysfunction and Time Management What is &amp;ldquo;executive dysfunction&amp;rdquo;? For me it is a play on the term &amp;ldquo;executive function disorder&amp;rdquo; which is a new, trendy, word1 for people who suffer from lack of motivation, poor impulse control, emotional distress, and other symptoms of not having your shit together. It is not an official diagnosis, but lately I&amp;rsquo;ve been thinking about EFD and how I suffer from, and have all my life, suffered from, EFD2.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/geekmadedesigns-makes-gaming-accessory-items-to-show-off-your-style/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/geekmadedesigns-makes-gaming-accessory-items-to-show-off-your-style/</guid>
+      <description>GeekMadeDesigns Makes Gaming Accessories to Show Off Your Style [CARD TEXT]
+I am on the move again so some of these things will look different in a few months. The house is too much for me to handle as I am still trying to get healthy after injuring my old self.
+I love SpawnPoiint&amp;rsquo;s YouTube channel for gaming, TV, and gaming accessory reviews.
+He introduced me to GeekMadeDesigns and once I saw that it was a wrap.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/i-am-constantly-fretting-over-how-much-i-should-be-posting-to/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/i-am-constantly-fretting-over-how-much-i-should-be-posting-to/</guid>
+      <description>I am constantly fretting over how much I should be posting to all of the blogs I write for.
+I have three main ones that I feel I could make a brand from1 and because I feel I need them to be a brand I feel stuck. I get overwhelmed, I don&amp;rsquo;t write, and I binge YouTube.
+I read a lot of folks&#39; thoughts on how they&amp;rsquo;ve relieved the pressure of marketing themselves by not giving a shit.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/in-my-feelings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/in-my-feelings/</guid>
+      <description>In My Feelings Complex Grief is hell. It&amp;rsquo;s been 2 years since I lost my mom to dementia, my job to COVID, and my therapist who was more than that to me, more like my best friend, all within 9 months.
+I am still not over any of this and I should probably seek grief counseling.
+Anyway here&amp;rsquo;s a playlist.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/into-smart-homes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/into-smart-homes/</guid>
+      <description>Into Smart Homes? And home labs?
+Check out my blog dedicated to exactly that.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/macsparky-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/macsparky-labs/</guid>
+      <description>MacSparky Labs If you&amp;rsquo;re not part of MacSparky Labs give it a look.
+I&amp;rsquo;ve subscribed and his videos on iOS 16 Focus Modes and the iPad as a Status Board videos1 are worth the price alone2.
+  Unlisted so I won&amp;rsquo;t list them here. &amp;#x21a9;&amp;#xfe0e;
+ Discounts on Field Guides is nice, too. &amp;#x21a9;&amp;#xfe0e;
+   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/moving-from-static-sites-to-ghost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/moving-from-static-sites-to-ghost/</guid>
+      <description>Moving from Static Sites to Ghost </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/music-that-shaped-my-youth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/music-that-shaped-my-youth/</guid>
+      <description>Music that shaped my youth I came of age in the late nineties and early aughts and a lot of my musical tastes reflect this.
+At the time Set It Off was released I&amp;rsquo;d not been heavy into hip hop for close to a decade but the SIO soundtrack changed that for me.
+Da 5 Footaz went in on this track and it&amp;rsquo;s one of my favorites off the soundtrack.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/my-cousin-my-cousin-and-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/my-cousin-my-cousin-and-me/</guid>
+      <description>My Cousin, My Cousin, and Me [CARD CONTENT] The little nerd boy who taught me to embrace games, love tech, and let my geek flag fly. [/CARD CONTENT]</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/my-home-interior-design-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/my-home-interior-design-project/</guid>
+      <description>MacSparky, one of my favorite Mac people, has gone about creating his own office space and designing it using Home Design 3D.
+I&amp;rsquo;ve chosen SketchUp for my 3D modeling software and it&amp;rsquo;s great in a lot of ways but converting raster images to .skp files is next to impossible to do within SketchUp itself.
+The best part, however, is that there is a marketplace for models from different well-known brands you can download for free.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/next-gen-consoles-a-year-later/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/next-gen-consoles-a-year-later/</guid>
+      <description>Next Gen Consoles, A Year Later </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/no-one-is-paying-for-search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/no-one-is-paying-for-search/</guid>
+      <description>No One is Paying for Search There&amp;rsquo;s a new search engine in town that requires you to pay for it.
+From kagi.com:
+ Kagi has no ads and is fully supported only by its users. We worked very hard to provide high quality, fast and tracking-free results at a minimum cost to ensure sustainability of our operation.
+  By choosing a paid Kagi plan you are helping accelerate our mission of humanizing the web.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/reading-workflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/reading-workflow/</guid>
+      <description>Reading Workflow </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/real-genius/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/real-genius/</guid>
+      <description>Real Genius One of my favorite teen movies of all time.
+real-genius.png
+movie review </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/scuf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/scuf/</guid>
+      <description>Scuf Instinct Pro Review IMG_8510.JPG</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/taxi-driver-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/taxi-driver-review/</guid>
+      <description>Taxi Driver Review DeNiro, a young Jodie Foster, and Martin Scorsese directing all that young talent. What more could you want?
+qr-taxi-driver.png</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/tough-times-require-awesome-music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tough-times-require-awesome-music/</guid>
+      <description>Tough Times Require Awesome Music So it&amp;rsquo;s a Foo Fighters type of night.
+♥️ Dave Grohl.
+https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY?si=VwEbSlPJRH66x1vTJFO7cw</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/wrapping-my-brain-around-returnal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/wrapping-my-brain-around-returnal/</guid>
+      <description>Returnal impressions My impression of Returnal so far:
+Beautiful.
+games/IMG_2315.JPG
+Detailed.
+IMG_2320.JPG
+Interesting story.
+games/IMG_2314.JPG
+Wonky gameplay.
+IMG_2322.JPG
+Unreal graphics.
+games/IMG_2313.JPG
+Smooth, fluid controls, perhaps too fluid.
+IMG_2316.JPG
+More to come.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/ye-olde-towne-high/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ye-olde-towne-high/</guid>
+      <description>Ye Olde Towne High I&amp;rsquo;m pretty tired and sad and old so I made a hip hop playlist from my high school years for all of us old hip hop heads.
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/white-lightning/white-lightning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/white-lightning/white-lightning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adventures in PC Building</title>
+      <link>/posts/adventures-in-pc-building/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/adventures-in-pc-building/</guid>
+      <description>Adventures in PC Building I am building a nice little PC for what I thought would be for pentesting and InfoSec but I am feeling the need to either setup a VM for that and install Steam on the PC so I can game on it. Who knows?
+Components These are all the components I&amp;rsquo;ve purchased so far:
+ MSI Nvidia GTX1650 GPU - $400 ASUS TUF CPU - $216 Corsair CX550F RGB POS - $62 Samsung EVO 970 Plus SSD - $150 Corsair Vengeance Pro 32 GB RAM - $236 Corsair Crystal Case - $140 Corsair LL Series Fan - $92 TP-Link AC1900 USB 3.</description>
+    </item>
+    
+    <item>
+      <title>HRH Prince Charles and Sir Jony Ive on better design</title>
+      <link>/posts/hrh-prince-charles-and-sir-jony-ive-on-designing-for-a-better/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hrh-prince-charles-and-sir-jony-ive-on-designing-for-a-better/</guid>
+      <description>HRH Prince Charles and Sir Jony Ive on designing for a better world From DEYAN SUDJIC at Wallpaper.com -
+ When Ive talks about design, his language is fiercely moralistic. ‘I am angry that most of what is made seems so thoughtless. So many products do not deserve to exist. The minimum that they should do to justify themselves and consume all that material is that their designers should care about them.</description>
+    </item>
+    
+    <item>
+      <title>I, Tonya Review</title>
+      <link>/movies/i-tonya-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/movies/i-tonya-review/</guid>
+      <description>I haven&amp;rsquo;t written much content here and I am sorry. I am trying to navigate tough waters at work and am bad at managing my time. Thinking of writing about it in a future post.
+ The acting in this, from Margo Robbie to Allison Janney makes this a masterpiece.</description>
     </item>
     
   </channel>
