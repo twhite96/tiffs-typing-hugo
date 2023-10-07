@@ -1,6 +1,7 @@
 ---
-title: HRH Prince Charles and Sir Jony Ive on better design
-excerpt: Sir Jony sure has opinions.
+title: "HRH Prince Charles and Sir Jony Ive on better design"
+description: "Sir Jony sure has opinions."
+date: 2022-07-19
 ---
 
 # HRH Prince Charles and Sir Jony Ive on designing for a better world

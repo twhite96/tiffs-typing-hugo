@@ -1,6 +1,6 @@
 ---
 title: 'Going from Reeder to NetNewsWire'
-date: 2023-07-20
+date: 2022-07-20
 description: 'RSS Lives!'
 ---
 

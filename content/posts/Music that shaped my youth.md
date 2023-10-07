@@ -1,4 +1,8 @@
-# Music that shaped my youth
+---
+title: "Music that shaped my youth"
+description: "Set It Off was the sound of Black Girl Summer in '96"
+date: 2022-12-17
+---
 
 I came of age in the late nineties and early aughts and a lot of my musical tastes reflect this.
 

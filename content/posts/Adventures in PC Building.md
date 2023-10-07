@@ -1,7 +1,7 @@
 ---
 title: "Adventures in PC Building"
 description: "I am building a nice little PC for what I thought would be for pentesting and InfoSec but I am feeling the need to either setup a VM for that and install Steam "
-date: "January, 14, 2022"
+date: 2022-01-14
 ---
 # Adventures in PC Building
 
