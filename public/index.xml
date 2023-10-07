@@ -6,7 +6,7 @@
     <description>Recent content in welcome to my personal site on ...tiff is typing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Going from Reeder to NetNewsWire</title>
       <link>/posts/going-from-netnewswire-to-reeder/</link>
@@ -26,16 +26,6 @@ There were so many different types of RSS readers, my favorite being gReader for
       
       <guid>/consoles/console-collection/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/games/tmnt-shredders-revenge/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/games/tmnt-shredders-revenge/</guid>
-      <description>TMNT: Shredder&amp;rsquo;s Revenge I&amp;rsquo;m too old for this shit.
-tmnt.png</description>
     </item>
     
     <item>
@@ -305,6 +295,15 @@ Components These are all the components I&amp;rsquo;ve purchased so far:
       <guid>/movies/i-tonya-review/</guid>
       <description>I haven&amp;rsquo;t written much content here and I am sorry. I am trying to navigate tough waters at work and am bad at managing my time. Thinking of writing about it in a future post.
  The acting in this, from Margo Robbie to Allison Janney makes this a masterpiece.</description>
+    </item>
+    
+    <item>
+      <title>TMNT: Shredder&#39;s Revenge</title>
+      <link>/games/tmnt-shredders-revenge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/games/tmnt-shredders-revenge/</guid>
+      <description></description>
     </item>
     
   </channel>

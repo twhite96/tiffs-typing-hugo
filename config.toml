@@ -70,7 +70,7 @@ pygmentsUseClasses = true
     name = "PC Build"
     identifier = "white-lightning"
     weight = 4
-    url = "/pc/"
+    url = "/white-lightning/"
   [[menu.main]]
     name = "console.log"
     identifier = "console-log"

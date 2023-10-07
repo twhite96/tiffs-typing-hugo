@@ -1,5 +1,8 @@
-# TMNT: Shredder's Revenge
+---
+title: "TMNT: Shredder's Revenge"
+description: "I'm too old for this shit."
+date: "January 14, 2022"
+---
 
-I'm too old for this shit.
 
-tmnt.png
+![](tmnt.webp)
