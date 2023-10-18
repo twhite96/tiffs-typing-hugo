@@ -394,13 +394,20 @@ blockquote {
   font-size: 1rem;
   padding: 16px;
   text-align: center;
-  width: 100%;
   color: #2e2e2e;
   background: linear-gradient(145deg, #f9ffff, #fdfdfd);
   border-radius: 12px;
   padding: 16px;
   box-shadow: 3px 3px, rgba(255, 0, 103, 0.3) 6px 6px, rgba(255, 0, 103, 0.2) 9px 9px;
   /* box-shadow: -1px 17px 55px -29px rgba(161, 161, 167, 0.64); */ }
+
+.littlefoot__button {
+  --button-active-background-color: #747070;
+  --button-background-color: #dbdada; }
+
+.littlefoot__popover {
+  --popover-background-color: #fff;
+  --popover-border: 1px solid #fff; }
 
 .intro {
   margin-bottom: 60px; }
