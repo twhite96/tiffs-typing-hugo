@@ -6,7 +6,16 @@
     <description>Recent content in hey there. nice of you to visit on ...tiff is typing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>console.log()</title>
+      <link>/consoles/console-collection/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/consoles/console-collection/</guid>
+      <description>   Console Release Year     Playstation 2 2001   Playstation 3 2006   PSP 1000 2004   Playstation 5 2020   Nintendo Gameboy Advance SP 2003   Nintendo Switch OLED 2019   Xbox Series X 2020        </description>
+    </item>
+    
     <item>
       <title>Palestine Rally Channel 5 News</title>
       <link>/posts/palestine-rally-channel-5-news/</link>
@@ -14,8 +23,7 @@
       
       <guid>/posts/palestine-rally-channel-5-news/</guid>
       <description>Andrew Callaghan at Channel 5 News is many things1 but he&amp;rsquo;s still one of the best journalists, anywhere.
-   The allegations of sexual misconduct are unforgivable and he has addressed this with honesty. It does not excuse the behavior, nor does his journalism, but I think his channel is important and ignoring it altogether does a disservice to nuanced discourse. &amp;#x21a9;&amp;#xfe0e;
-   </description>
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }   The allegations of sexual misconduct are unforgivable and he has addressed this with honesty. It does not excuse the behavior, nor does his journalism, but I think his channel is important and ignoring it altogether does a disservice to nuanced discourse.</description>
     </item>
     
     <item>
@@ -163,15 +171,6 @@ There were so many different types of RSS readers, my favorite being gReader for
       <description>Adventures in PC Building I am building a nice little PC for what I thought would be for pentesting and InfoSec but I am feeling the need to either setup a VM for that and install Steam on the PC so I can game on it. Who knows?
 Components These are all the components I&amp;rsquo;ve purchased so far:
  MSI Nvidia GTX1650 GPU - $400 ASUS TUF CPU - $216 Corsair CX550F RGB POS - $62 Samsung EVO 970 Plus SSD - $150 Corsair Vengeance Pro 32 GB RAM - $236 Corsair Crystal Case - $140 Corsair LL Series Fan - $92 TP-Link AC1900 USB 3.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/consoles/console-collection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/consoles/console-collection/</guid>
-      <description></description>
     </item>
     
     <item>
