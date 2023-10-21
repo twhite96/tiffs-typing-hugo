@@ -14,4 +14,3 @@ date: 2023-10-21
 | Nintendo Gameboy Advance SP | 2003         |
 | Nintendo Switch OLED        | 2019         |
 | Xbox Series X               | 2020         |
-|                             |              |

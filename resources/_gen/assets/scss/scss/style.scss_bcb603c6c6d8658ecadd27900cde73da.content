@@ -409,6 +409,65 @@ blockquote {
   --popover-background-color: #fff;
   --popover-border: 1px solid #fff; }
 
+table :is(td, th) {
+  border: 2px solid #ed4f7c;
+  padding: 0.8em;
+  border-radius: 2px; }
+
+th {
+  background-color: #fe5186;
+  color: white; }
+
+tr:nth-child(even) {
+  background-color: #fe5186;
+  color: white; }
+
+body::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); }
+
+body::-webkit-scrollbar-thumb {
+  background: #06d7d9;
+  background: linear-gradient(45deg, #06d7d9 0%, #ff1a75 35%, #ed54e1 100%);
+  border-radius: 3em; }
+
+p::selection {
+  background: #ff1a75;
+  color: white; }
+
+h1::selection {
+  background: #06d7d9; }
+
+h2::selection {
+  background: #ed54e1; }
+
+h3::selection {
+  background: #72f1b8;
+  color: white; }
+
+h4::selection {
+  background: #ff0067;
+  color: white; }
+
+code::selection {
+  background: #ed54e1; }
+
+ul::selection {
+  background: #ff1a75;
+  color: white; }
+
+ol::selection {
+  background: #72f1b8;
+  color: white; }
+
+li::selection {
+  background: #ff1a75;
+  color: white; }
+
+blockquote::selection {
+  background: #06d7d9;
+  color: white; }
+
 .intro {
   margin-bottom: 60px; }
   .intro h1 {
