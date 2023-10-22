@@ -29,7 +29,7 @@ h1, h2, h3 {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 30px;
-  font-size: 16px; }
+  font-size: 1.4em; }
   @media (min-width: 767px) {
     .header {
       padding-bottom: 5px;
@@ -115,7 +115,7 @@ h3 {
 p {
   color: var(--text-color);
   font-family: var(--font-family-paragraph);
-  font-size: 1.1rem;
+  font-size: 1.6rem;
   line-height: 24px; }
 
 ol,
@@ -130,7 +130,7 @@ ul {
 .content {
   font-size: 18px; }
   .content p {
-    font-size: 1rem;
+    font-size: 1.6rem;
     line-height: 1.6;
     margin: 0;
     padding: 0;
