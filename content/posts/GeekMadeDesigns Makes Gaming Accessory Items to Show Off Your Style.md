@@ -1,5 +1,5 @@
 ---
-title: "GeekMadeDesigns Makes Gaming Accessories and Fine Nerdery"
+title: "Geek Made Designs: Gaming Accessories and Fine Nerdery"
 description: "Hand crafted geekery"
 date: 2023-02-03
 ---

@@ -115,7 +115,7 @@ h3 {
 p {
   color: var(--text-color);
   font-family: var(--font-family-paragraph);
-  font-size: 18px;
+  font-size: 1.1rem;
   line-height: 24px; }
 
 ol,
@@ -130,13 +130,13 @@ ul {
 .content {
   font-size: 18px; }
   .content p {
-    font-size: 18px;
+    font-size: 1rem;
     line-height: 1.6;
     margin: 0;
     padding: 0;
     margin-bottom: 20px; }
   .content h1 {
-    font-size: 40px;
+    font-size: 2rem;
     line-height: 1.6;
     font-weight: bold;
     margin-top: 30px;
@@ -507,6 +507,8 @@ blockquote::selection {
         line-height: 32px; } }
   .intro img {
     max-width: 100%; }
+  .intro .intro h1 :is(.menu-main-mobile) {
+    font-size: 2rem; }
 
 .summary {
   margin-bottom: 50px;
@@ -621,7 +623,7 @@ ul.pagination {
 
 .menu-main {
   display: none; }
-  @media (min-width: 992px) {
+  @media (min-width: 767px) {
     .menu-main {
       display: block; } }
   .menu-main > ul {
