@@ -1,5 +1,5 @@
 ---
-title: "console.log()"
+title: "console.log"
 description: "List of my every growing collection of games and game consoles."
 date: 2023-10-21
 ---
