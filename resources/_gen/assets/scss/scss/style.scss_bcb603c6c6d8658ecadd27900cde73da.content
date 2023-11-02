@@ -41,8 +41,7 @@ h1, h2, h3 {
 
 .hamburger-trigger {
   height: 30px;
-  display: flex;
-  align-items: center; }
+  display: fleenter; }
   @media (min-width: 992px) {
     .hamburger-trigger {
       display: none; } }

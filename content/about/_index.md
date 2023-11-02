@@ -1,6 +1,6 @@
 ---
 title: 'About'
-image: images/writer.jpeg
+image: images/writer.jpg
 ---
 
 ## Contra vagos
