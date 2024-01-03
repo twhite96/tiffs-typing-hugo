@@ -6,33 +6,28 @@
     <description>Recent content in Movie Reviews on ...tiff is typing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/movies/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/movies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Real Genius</title>
       <link>/movies/real-genius/</link>
       <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>/movies/real-genius/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Taxi Driver Review</title>
       <link>/movies/taxi-driver-review/</link>
       <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>/movies/taxi-driver-review/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>I, Tonya Review</title>
       <link>/movies/i-tonya-review/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>/movies/i-tonya-review/</guid>
-      <description>#warning-callout {background: rgba(255, 106, 0, .3);box-shadow: 0px 10px 34px -11px rgba(0,0,0,0.1);padding: 1.5em 1.25em;border-radius: 6px;display: flex;flex-direction: row;margin-bottom: 20px;}#warning-callout-inner {margin-left: 1em;}@media (max-width: 767px) {#warning-callout {padding: 1.5em 0.75em 1.5em 0.6em;}#warning-callout-inner {margin-left: 0.5em;}}😭I haven&amp;#39;t written much content here and I am sorry. I am trying to navigate tough waters at work and am bad at managing my time.</description>
+      <description>😭I haven&amp;#39;t written much content here and I am sorry. I am trying to navigate tough waters at work and am bad at managing my time. Thinking of writing about it in a future post..The acting in this, from Margo Robbie to Allison Janney makes this a masterpiece.</description>
     </item>
-    
   </channel>
 </rss>

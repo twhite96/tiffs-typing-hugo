@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/working-in-tech-made-me-a-socialist/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/sleep/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
@@ -84,7 +87,6 @@
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/now/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>/white-lightning/white-lightning/</loc>
   </url><url>

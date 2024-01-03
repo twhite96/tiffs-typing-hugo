@@ -6,15 +6,14 @@
     <description>Recent content in Game Reviews on ...tiff is typing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/games/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TMNT: Shredder&#39;s Revenge</title>
       <link>/games/tmnt-shredders-revenge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/games/tmnt-shredders-revenge/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
